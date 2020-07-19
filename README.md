@@ -33,4 +33,4 @@ Hi there, I'm **Ismael Rosete** and from México City, I am a creative web desig
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">Terminal</code>
 
 
-<img alt="GIF" witdth="200px" src="https://infogra.ru/wp-content/uploads/2017/12/8.gif" />
+<img alt="GIF" src="https://infogra.ru/wp-content/uploads/2017/12/8.gif" />
