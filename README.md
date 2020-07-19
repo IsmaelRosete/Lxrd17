@@ -11,7 +11,7 @@
 Hi there, I'm **Ismael Rosete** and from México City, I am a creative web designer specialized in
  front-end, and I love make web sites.
 
-  <img align="right" alt="GIF" src="https://infogra.ru/wp-content/uploads/2017/12/8.gif" />
+  <img align="right" alt="GIF" witdth="200px" src="https://infogra.ru/wp-content/uploads/2017/12/8.gif" />
 
 **Talking about Personal Stuffs:**
 
