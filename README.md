@@ -1,4 +1,5 @@
 ### Hey there, I´m Ismael Rosete
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <a href="https://www.instagram.com/web_design543/">
   <img align="left" alt="Ismael Instagram" width="22px" 
@@ -46,7 +47,7 @@ Hi there, I'm **Ismael Rosete** and from México City, I am a creative web desig
     }
     lenguage = {
         Front-end: 'Html, Css, JS',
-        back-end: 'Java, PHP, MySQL',
+        back-end: 'Java, PHP, MySQL'
     }
     
 ```
