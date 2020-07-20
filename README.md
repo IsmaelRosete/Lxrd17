@@ -23,6 +23,10 @@ Hi there, I'm **Ismael Rosete** and from México City, I am a creative web desig
 - 📫 Please email via rossettezepeda@gmail.com to reach me.
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 
+### If you want see my work
+
+[IsmaelRosete](https://lxrd17.github.io/zepedaismael/)
+
 
 **Languages and Tools:**  
 
@@ -39,7 +43,7 @@ Hi there, I'm **Ismael Rosete** and from México City, I am a creative web desig
 
  
   education = {
-    high_school: CETis_167
+    high_school: 'CETis 167'
     }
     tools = {
         frameworks: 'React, Vue, Angular',
