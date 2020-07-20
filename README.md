@@ -43,7 +43,7 @@ Hi there, I'm **Ismael Rosete** and from México City, I am a creative web desig
     }
     tools = {
         frameworks: 'React, Vue, Angular',
-        Css: Bootstrap, 'Skeleton, Material Kit',
+        Css: 'Bootstrap, Skeleton, Material Kit',
         others: 'Git, NPM'
     }
     lenguage = {
