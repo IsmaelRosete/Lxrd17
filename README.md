@@ -16,7 +16,7 @@ Hi there, I'm **Ismael Rosete** and from México City, I am a creative web desig
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an web design so Adobe XD, HTML, CSS, JS, Libraries.
-- 🌱 I’m currently learning REACT JS, VUE, and Angular; 
+- 🌱 I’m currently learning REACT JS; 
 - 🤔 My interests are with web design, work with teams, help where possible, and learning more;
 - 💼 I’m pursuing my goal of being a good developer;
 - 💬 Ask me about anything, I am happy to help;
@@ -46,8 +46,8 @@ Hi there, I'm **Ismael Rosete** and from México City, I am a creative web desig
     high_school: 'CETis 167'
     }
     tools = {
-        frameworks: 'React, Vue, Angular',
-        Css: 'Bootstrap, Skeleton, Material Kit',
+        frameworks: 'React',
+        Css: 'Bootstrap, Skeleton, Material Kit, Materialize',
         others: 'Git, NPM'
     }
     lenguage = {
