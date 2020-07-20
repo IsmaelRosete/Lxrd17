@@ -37,8 +37,9 @@ Hi there, I'm **Ismael Rosete** and from México City, I am a creative web desig
 
 ```javascript
 
+ 
   education = {
-    high school: CETis 167
+    high_school: CETis_167
     }
     tools = {
         frameworks: 'React, Vue, Angular',
@@ -46,9 +47,14 @@ Hi there, I'm **Ismael Rosete** and from México City, I am a creative web desig
         others: 'Git, NPM'
     }
     lenguage = {
-        Front-end: 'Html, Css, JS',
-        back-end: 'Java, PHP, MySQL'
+        front_end: 'Html, Css, JS' ,
+        back_end: 'Java, PHP, MySQL',
     }
+    database = {
+        relacional: 'MySQL'
+    }
+
+    const description = "I love this world from web, I have more practice and I´m Jr, eager to learn"
     
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
