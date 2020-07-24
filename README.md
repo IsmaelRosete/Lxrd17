@@ -63,4 +63,6 @@ Hi there, I'm **Ismael Rosete** and from México City, I am a creative web desig
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+https://github-readme-stats.vercel.app/api?username=Lxrd17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
 <img alt="GIF" align='center' src="https://infogra.ru/wp-content/uploads/2017/12/8.gif" />
